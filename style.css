@@ -1,0 +1,51 @@
+#header{
+    text-align: center;
+    background-color: #f1f1f1;
+    padding: 30px;
+    width: 100%;
+    padding-bottom: 20px;
+
+}
+#headerp{ 
+    text-align: center;
+    padding: 5px;
+    
+}
+
+#nav{
+    text-align: center;
+    background: color #333;
+    padding: 30px;
+    
+    
+}
+
+
+#navp{
+    text-align: center;
+    padding: 5px;
+   
+
+}
+.section {
+    background-color: #f1f1f1;
+    height: 250px;
+    float: left;
+    width: 49%;
+}
+
+.aside {
+    background-color: #f1f1f1;
+    height:250px;
+    float: right;
+    width: 49%;
+
+}
+
+.footer {
+    padding: 20px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+
